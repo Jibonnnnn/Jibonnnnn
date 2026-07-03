@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Custom Banner - Upload your generated image as banner.png -->
+  <!-- Custom Banner -->
   ![Jibonnnnn Banner](https://github.com/Jibonnnnn/Jibonnnnn/blob/main/banner.png)
 
-  <h1>Hey there 👋, I'm <span style="color:#89B4FA;">Jeevon</span> (Jibonnnnn)</h1>
+  <h1>Hey there 👋, I'm Jeevon (Jibonnnnn)</h1>
 
   **Living potato.** 🥔 Turning caffeine into code and ideas into functional apps.
 
@@ -58,12 +58,10 @@ A relaxed full-stack developer who enjoys building practical web applications. W
 ### 🔥 Featured Projects
 
 - **[DentalHorizone](https://github.com/Jibonnnnn/DentalHorizone)** — Dental management system (JavaScript + PHP)
-- **[-Web-MoviesAPI_Ricafort](https://github.com/Jibonnnnn/-Web-MoviesAPI_Ricafort)** — Movie Theatre System using **ASP.NET Core Web API** (C#)
+- **[-Web-MoviesAPI_Ricafort](https://github.com/Jibonnnnn/-Web-MoviesAPI_Ricafort)** — Movie Theatre System using ASP.NET Core Web API (C#)
 - **[jeevon-portfolio](https://github.com/Jibonnnnn/jeevon-portfolio)** — Personal portfolio built with Laravel Blade
 - **[TheaterSystem](https://github.com/Jibonnnnn/TheaterSystem)** — C# theater-related project
 - **[hello-laravel](https://github.com/Jibonnnnn/hello-laravel)** — Laravel experimentation
-
-Check out more in the [Repositories tab](https://github.com/Jibonnnnn?tab=repositories).
 
 ---
 
