@@ -44,8 +44,7 @@ A relaxed full-stack developer who enjoys building practical web applications. W
 
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jibonnnnn&theme=dracula&hide_border=true&stroke=89B4FA)
 
-<!-- Custom Contribution Graph (optional) - Replace with your generated image -->
-<!-- ![Custom Contribution Graph](https://github.com/Jibonnnnn/Jibonnnnn/blob/main/contribution-graph.png) -->
+![Jibonnnnn's Contribution Graph](https://github.com/Jibonnnnn/Jibonnnnn/blob/main/contribution-graph.png)
 
 <div align="center">
 
