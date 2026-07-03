@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Custom Banner -->
-  ![Jibonnnnn Banner](https://github.com/Jibonnnnn/Jibonnnnn/blob/main/banner.png)
-
   <h1>Hey there 👋, I'm Jeevon (Jibonnnnn)</h1>
 
   **Living potato.** 🥔 Turning caffeine into code and ideas into functional apps.
@@ -44,6 +41,7 @@ A relaxed full-stack developer who enjoys building practical web applications. W
 
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jibonnnnn&theme=dracula&hide_border=true&stroke=89B4FA)
 
+<!-- Custom Contribution Graph - Make sure the file is uploaded -->
 ![Jibonnnnn's Contribution Graph](https://github.com/Jibonnnnn/Jibonnnnn/blob/main/contribution-graph.png)
 
 <div align="center">
