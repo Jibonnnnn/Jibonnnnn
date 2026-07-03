@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" alt="wave">, I'm Jeevon (Jibonnnnn)</h1>
+  <h1>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" alt="wave">, I'm Jeb.</h1>
 
   **Living potato.** 🥔 Turning caffeine into code and ideas into functional apps.
 
@@ -41,13 +41,6 @@ A relaxed full-stack developer who enjoys building practical web applications. W
 
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jibonnnnn&theme=dracula&hide_border=true&stroke=89B4FA)
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jibonnnnn&show_icons=true&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jibonnnnn&layout=compact&theme=dracula&hide_border=true)
-
-</div>
-
 ---
 
 ### 🔥 Featured Projects
@@ -57,6 +50,19 @@ A relaxed full-stack developer who enjoys building practical web applications. W
 - **[jeevon-portfolio](https://github.com/Jibonnnnn/jeevon-portfolio)** — Personal portfolio built with Laravel Blade
 - **[TheaterSystem](https://github.com/Jibonnnnn/TheaterSystem)** — C# theater-related project
 - **[hello-laravel](https://github.com/Jibonnnnn/hello-laravel)** — Laravel experimentation
+
+---
+
+### 💭 Quote
+> "Yesterday is History, Tomorrow is Mystery, and Today is a Gift, that is why it is called the Present." - Master Oogway
+
+---
+
+### 🌟 Unique Touches
+
+- **Currently Playing:** Learning how to combine **.NET** power with **Laravel** elegance
+- **Fun Experiment:** Turning coffee into commits ☕ → 💻
+- **Goal for 2026:** Build one project that helps other developers (or fellow potatoes)
 
 ---
 
