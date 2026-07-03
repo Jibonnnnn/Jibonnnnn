@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" alt="wave">, I'm Jeb.</h1>
+  <h1>Whats's up! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40" alt="wave">, I'm Jeb.</h1>
 
   **Living potato.** 🥔 Turning caffeine into code and ideas into functional apps.
 
