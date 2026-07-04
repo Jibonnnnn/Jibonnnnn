@@ -9,13 +9,7 @@
 <h3> 📊 Github Stats</h3>
 
 <div align="center">
-  <!-- 3D Contribution Graph -->
-  <a href="https://github.com/Jibonnnnn">
-    <img src="https://github-profile-3d-contrib.vercel.app/Jibonnnnn?theme=dark" height="300" alt="Jibonnnnn's 3D Contribution Graph" />
-  </a>
-</div>
-
-<div align="left">
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jibonnnnn&radius=16&theme=react&area=true&order=5" height="300" width="810" alt="activity-graph" />
 </div>
 
@@ -46,12 +40,8 @@ A relaxed full-stack developer who enjoys building practical web applications. W
 ### 📊 My Activity
 
 <div align="center">
-
-[![Jibonnnnn's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Jibonnnnn&theme=dracula&hide_border=true&stroke=89B4FA)](https://github.com/Jibonnnnn)
-
-</div>
-<div align="center">
-[![Jibonnnnn's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jibonnnnn&theme=dracula&hide_border=true&stroke=89B4FA)](https://github.com/Jibonnnnn)
+  <!-- Contribution Streak -->
+  [![Jibonnnnn's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jibonnnnn&theme=dracula&hide_border=true&stroke=89B4FA)](https://github.com/Jibonnnnn)
 </div>
 
 ---
