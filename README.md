@@ -9,6 +9,11 @@
 </div>
 
 ---
+<h3> 📊 Github Stats</h3>
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jibonnn&radius=16&theme=react&area=true&order=5" height="300" width="810" alt="activity-graph graph"  />
+</div>
+
 
 ### 🌱 About Me
 A relaxed full-stack developer who enjoys building practical web applications. Whether it's a movie theater management system or a dental clinic tool, I focus on clean, working solutions with a touch of creativity.
